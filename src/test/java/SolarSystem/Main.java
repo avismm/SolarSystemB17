@@ -8,5 +8,12 @@ public class Main {
         solarSys.stars="2";
         solarSys.planets="10";
 
+        //creating an object of Feature Sun
+        FeatureSun sun=new FeatureSun();
+        sun.name="mother sun";
+        sun.name="mother sun";
+        sun.name="mother sun";
+
+
     }
 }
