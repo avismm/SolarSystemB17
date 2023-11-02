@@ -14,6 +14,12 @@ public class Main {
         sun.name="mother sun";
         sun.name="mother sun";
 
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abracadabra";
+        plato.temp="10000000k";
+        plato.radius="800000km";
+
 
     }
 }
