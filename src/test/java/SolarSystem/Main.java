@@ -20,6 +20,13 @@ public class Main {
         xaros.color="blue";
         xaros.size="32432432324324km";
 
+        //planet 1
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abracadabra";
+        plato.temp="10000000k";
+        plato.radius="800000km";
+
 
     }
 }
